@@ -1,0 +1,1 @@
+## zadanie_21_lab12.py działa

@@ -1,0 +1,7 @@
+konwolucja to działanie na dwóch funkcjach* (lub opisywanych przez nie sygnałach*) dające w wyniku inną, która może być postrzegana jako zmodyfikowana* wersja oryginalnych funkcji. 
+wynik opisanego działania również jest określany jako konwolucja. 
+w literaturze konwolucja występuje również pod nazwą mnożenie* konwolucjaowe. 
+konwolucja przypomina korelację* wzajemną*. 
+możemy również wyróżnić kilka rodzajów działania opartego o konwolucja: cykliczne, dyskretne, jednostronne, miar. konwolucja znajduje zastosowanie w statystyce, równaniach różniczkowych, elektrotechnice, cyfrowym przetwarzaniu obrazów czy sygnałów. 
+w przetwarzaniu* obrazów konwolucja obrazu źródłowego z odpowiednio skonstruowanym filtrem* pozwala na wykrycie krawędzi (filtr sobela), rozmycie obrazu (filtr gaussa) oraz ekstrakcję cech kształtów przy rozpoznawaniu wzorców obiektów w obrazie (falki gabora), jak i wielu innych. 
+konwolucja ma swój odwrotny odpowiednik - rozplot.

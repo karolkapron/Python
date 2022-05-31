@@ -1,0 +1,7 @@
+Splot to działanie na dwóch funkcjach (lub opisywanych przez nie sygnałach) dające w wyniku inną, która może być postrzegana jako zmodyfikowana wersja oryginalnych funkcji. 
+Wynik opisanego działania również jest określany jako splot. 
+W literaturze splot występuje również pod nazwą mnożenie splotowe. 
+Splot przypomina korelację wzajemną. 
+Możemy również wyróżnić kilka rodzajów działania opartego o splot: cykliczne, dyskretne, jednostronne, miar. Splot znajduje zastosowanie w statystyce, równaniach różniczkowych, elektrotechnice, cyfrowym przetwarzaniu obrazów czy sygnałów. 
+W przetwarzaniu obrazów splot obrazu źródłowego z odpowiednio skonstruowanym filtrem pozwala na wykrycie krawędzi (filtr Sobela), rozmycie obrazu (filtr Gaussa) oraz ekstrakcję cech kształtów przy rozpoznawaniu wzorców obiektów w obrazie (falki Gabora), jak i wielu innych. 
+Splot ma swój odwrotny odpowiednik - rozplot.
